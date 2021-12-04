@@ -10,6 +10,6 @@
   <project name="blob-trees/android_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" revision="lineage-18.1" remote="github"/>
   <project name="blob-trees/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="lineage-18.1" remote="github"/>
   <project name="blob-trees/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="lineage-18.1" remote="github"/>
-  <!-Hardware-->
+  <!--Hardware-->
   <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="lineage-18.1" remote="github"/>
 </manifest>
