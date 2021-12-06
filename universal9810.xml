@@ -3,6 +3,7 @@
   <!--Device tree-->
   <project name="blob-trees/android_device_samsung_starlte" path="device/samsung/starlte" revision="aosp-11" remote="github"/>
   <project name="blob-trees/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="aosp-11" remote="github"/>
+  <project name="blob-trees/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="aosp-11" remote="github"/>
   <project name="blob-trees/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="aosp-11" remote="github"/>
   <!--Kernel-->
   <project name="blob-trees/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="aosp-11" remote="github"/>
@@ -10,6 +11,7 @@
   <project name="blob-trees/android_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" revision="aosp-11" remote="github"/>
   <project name="blob-trees/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="aosp-11" remote="github"/>
   <project name="blob-trees/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="aosp-11" remote="github"/>
+  <project name="blob-trees/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="aosp-11" remote="github"/>
   <!--Hardware-->
   <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="aosp-11" remote="github"/>
 </manifest>
