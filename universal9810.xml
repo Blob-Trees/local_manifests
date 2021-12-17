@@ -16,4 +16,7 @@
   <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="aosp-12" remote="github"/>
   <!--Clang-->
   <project name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r437112" path="prebuilts/clang/host/linux-x86/clang-r437112" revision="master" remote="github"/>
+  <!--Samsung SLSI-->
+  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" revision="lineage-19.0" remote="github"/>
+  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" revision="lineage-19.0" remote="github"/>
 </manifest>
