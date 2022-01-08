@@ -4,7 +4,7 @@
   <remote name="private_stuff" fetch="ssh://git@github.com/" />
   <!--Device tree-->
   <project name="blob-trees/android_device_samsung_starlte" path="device/samsung/starlte" revision="aosp-12" remote="github"/>
-  <project name="blob-trees/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="aosp-12" remote="github"/>
+  <project name="blob-trees/android_device_samsung_star2lte" path="device/samsung/star2lte" revision="aosp-arcadia" remote="github"/>
   <project name="blob-trees/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="aosp-12" remote="github"/>
   <project name="blob-trees/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="aosp-12" remote="private_stuff"/>
   <!--Kernel-->
