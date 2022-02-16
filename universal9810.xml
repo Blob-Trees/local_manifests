@@ -8,7 +8,7 @@
   <project name="blob-trees/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="lineage-19.0" remote="github"/>
   <project name="blob-trees/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="lineage-19.0" remote="private_stuff"/>
   <!--Kernel-->
-  <project name="blob-trees/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="twelve" remote="github"/>
+  <project name="blob-trees/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="AOSP-RC-2.2-MOD" remote="github"/>
   <!--Blobs-->
   <project name="blob-trees/android_vendor_samsung_universal9810-common" path="vendor/samsung/universal9810-common" revision="aosp-12" remote="private_stuff"/>
   <project name="blob-trees/android_vendor_samsung_starlte" path="vendor/samsung/starlte" revision="aosp-12" remote="private_stuff"/>
