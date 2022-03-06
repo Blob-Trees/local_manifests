@@ -15,7 +15,7 @@
   <project name="blob-trees/android_vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="aosp-12" remote="github"/>
   <project name="blob-trees/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="aosp-12" remote="private_stuff"/>
   <!--Hardware-->
-  <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="aosp-12" remote="github"/>
+  <project name="blob-trees/android_hardware_samsung" path="hardware/samsung" revision="twelve" remote="github"/>
   <!--Clang-->
   <project name="ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r437112" path="prebuilts/clang/host/linux-x86/clang-r437112" revision="master" remote="github"/>
   <!--Samsung SLSI-->
